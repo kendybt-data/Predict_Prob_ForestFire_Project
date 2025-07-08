@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "wholroyd.jinja",
+    "formulahendry.code-runner"
+  ]
+}
+// This file lists recommended VS Code extensions for the project, enhancing Python and Jupyter support, and enabling code running capabilities.
+// The extensions include Python support, Jupyter notebook features, Jinja template support, and a code runner for executing scripts.
+// It helps ensure that all contributors have a consistent development environment. 
+
+

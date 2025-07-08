@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Setup: Extensions & Dependencies",
+      "type": "shell",
+      "command": "code --install-extension ms-python.python --install-extension batisteo.vscode-django --install-extension wholroyd.jinja --install-extension formulahendry.code-runner && pip install -r requirements.txt",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "runOptions": { "runOn": "folderOpen" }
+    }
+  ]
+}
+// This task installs necessary VS Code extensions and Python dependencies for the project.
+// It runs automatically when the folder is opened, ensuring the environment is ready for development.

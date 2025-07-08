@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "task.allowAutomaticTasks": "on",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  }
+}
+// This file sets the VS Code workspace preferences for the project.
+// It specifies the color theme, allows automatic tasks, and associates Markdown files with the preview editor
