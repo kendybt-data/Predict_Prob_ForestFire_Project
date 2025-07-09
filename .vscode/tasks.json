@@ -4,7 +4,7 @@
     {
       "label": "Setup: Extensions & Dependencies",
       "type": "shell",
-      "command": "code --install-extension ms-python.python; code --install-extension batisteo.vscode-django; code --install-extension wholroyd.jinja; code --install-extension formulahendry.code-runner; pip install -r requirements.txt",
+      "command": "code --install-extension ms-python.python --install-extension formulahendry.code-runner",
       "presentation": {
         "reveal": "always",
         "panel": "new"
